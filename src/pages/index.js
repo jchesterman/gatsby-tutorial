@@ -1,3 +1,10 @@
-import React from "react"
+import React from "react";
+import Counter from '../components/counter';
 
-export default () => <div>Hello world!</div>
+export default () => (
+  <div>
+    <div>Hello world!</div>
+    <br/>
+    <Counter/>
+  </div>
+)
