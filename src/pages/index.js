@@ -3,7 +3,7 @@ import Counter from '../components/counter';
 
 export default () => (
   <div>
-    <div>Hello world!</div>
+    <div>New feature!</div>
     <br/>
     <Counter/>
   </div>
